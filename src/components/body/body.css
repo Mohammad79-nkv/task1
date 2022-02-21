@@ -1,0 +1,5 @@
+.body-container {
+    display:flex;
+    min-width: 1200px;
+    justify-content: space-between;
+}

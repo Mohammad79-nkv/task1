@@ -1,0 +1,18 @@
+.sidebar {
+    display: inline-block;
+}
+.sidebar-item {
+    background-color: #D7EBED;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 200px 5px 10px;
+    border: 1px solid #BDE1E8;
+    border-radius: 50px 0px 0px 50px;
+    height: 73px;
+}
+.sidebar-item p {
+    font-size: 22px;
+    color:#183573;
+    margin-left: 15px;
+}
